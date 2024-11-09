@@ -1,0 +1,29 @@
+{
+  "signup": [
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "mobile": 9658745692,
+      "password": "abcd",
+      "id": "1"
+    },
+    {
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": 4152452414,
+      "password": "abcd",
+      "id": "2"
+    },
+    {
+      "id": "8496",
+      "name": "nour",
+      "email": "nour@mail.com",
+      "mobile": 25516161,
+      "password": "1212"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
