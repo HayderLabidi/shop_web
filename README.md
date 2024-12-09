@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/HayderLabidi/MDW22.git
+    git clone https://github.com/HayderLabidi/shop_web.git
 ```
 
 
